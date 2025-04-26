@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"children's vaccination clinic"},
+{"type":"table","name":"registrations","database":"children's vaccination clinic","data":
+[
+{"id":"9","momId":"147852369","email":"marwa@gmail.com","password":"$2b$10$ZQw\/BHi7toqwEH4NNUBUROC","name":"مروة","birthDate":"2002-12-26","bloodType":"O+","childrenCount":"1","husbandName":"محمد","husbandId":"123658947","address":"نابلس","contactNumber":"0599789456"},
+{"id":"16","momId":"123456787","email":"masa@gmail.com","password":"$2b$10$0htNoLzR\/hqw72cMRhi9IuC","name":"ماسة","birthDate":"2002-11-12","bloodType":"AB+","childrenCount":"4","husbandName":"عميد","husbandId":"987654319","address":"نابلس","contactNumber":"0594508619"},
+{"id":"1113","momId":"123654788","email":"hala@gmail.com","password":"$2b$10$DWJrn5hGhN3EimS4xEACtee","name":"حلا","birthDate":"2024-12-05","bloodType":"O+","childrenCount":"1","husbandName":"سامي","husbandId":"987695847","address":"عقربا","contactNumber":"0591111112"},
+{"id":"1114","momId":"999999999","email":"batool@gmail.com","password":"$2b$10$.WHmJbIwH3Suc4\/TJxDRoei","name":"بتول","birthDate":"2025-01-10","bloodType":"AB-","childrenCount":"5","husbandName":"سعيد","husbandId":"987654789","address":"نابلس","contactNumber":"0512121212"},
+{"id":"1115","momId":"122121231","email":"lara@gmail.com","password":"$2b$10$T\/vaZwnP2b8NBgKX5iyA4.q","name":"لارا","birthDate":"1985-05-15","bloodType":"O+","childrenCount":"3","husbandName":"رامي","husbandId":"122121232","address":"فرعتا","contactNumber":"0599114477"}
+]
+}
+]

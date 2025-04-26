@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"children's vaccination clinic"},
+{"type":"table","name":"vaccinationrecords","database":"children's vaccination clinic","data":
+[
+{"record_id":"655","child_id":"39","appointment_day":"2024-12-20","appointment_time":"08:00:00","status":"مجدولة","reason":"طعم","clinic_id":"16","doctor_id":"22","parent_id":"9","notification_sent":"0"},
+{"record_id":"656","child_id":"39","appointment_day":"2024-12-20","appointment_time":"08:15:00","status":"مجدولة","reason":"فحص","clinic_id":"16","doctor_id":"18","parent_id":"9","notification_sent":"0"}
+]
+}
+]
